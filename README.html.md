@@ -1,11 +1,3 @@
----
-title: Handbook
-twitter_image: /images/tweets/handbook-gitlab.png
----
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 
 ## Lab49 Advisory and Consulting Handbook
@@ -22,6 +14,9 @@ twitter_image: /images/tweets/handbook-gitlab.png
   * Deep Dive Plan
   * Deep Dive Checklist
   * Deep Dive RA Template
+
+
+{:toc}
 
 You can use the [editor on GitHub](https://github.com/hannahwolahan/hannahwolahan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
