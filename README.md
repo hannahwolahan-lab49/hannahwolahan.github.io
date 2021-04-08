@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Lab49 Advisory and Consulting Handbook
 
-* Intro
-  * About Lab49
-* New Joiner Info
-* Enterprise Architecture
+### Intro
+### About Lab49
+###  New Joiner Info
+###  Enterprise Architecture
 {:toc}
+
 You can use the [editor on GitHub](https://github.com/hannahwolahan/hannahwolahan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
