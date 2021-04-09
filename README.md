@@ -1,34 +1,34 @@
 
-# Lab49 Advisory and Consulting Handbook
+## Lab49 Advisory and Consulting Handbook
 - TOC
 {:toc}
-- Lab49
-- About L49
-- the Practices
-- Sydney office
-- Advisory and Consulting
-	- Blurb
-- Our Team
-- Members
-- Skills
-- Our Principles
 
+### [Intro](/Introduction.md/)
+* About Lab49
+* The Practices
+* Lab49 Sydney
+* [Advisory Consulting](/Advisory and Consulting.md/)
+* Our Principles
+* Our Team
+* Skills
+### [Enterprise Architecture](/Enterprise Architecture.md/)
+* What is Enterprise Architecture
+* Enterprise Architecture Framework
+* What is a Reference Architecture
+  * Deep Dive 101
+  * Deep Dive Plan
+  * Deep Dive Checklist
+  * Deep Dive RA Template
+### Practice Development
+### Our Clients
+### [New Joiner Info](/New Joiners.md/)
+* [Getting Started](/New Joiners/Getting Started.md/)
+* [Useful Onboarding Resources](/New Joiners/Useful Onboarding Resources.md/)
+* [Contact and Portals](/New Joiners/Contact and Help.md/)
+### [Learning and Development]
+* Learning Resources
+### [Performance Management]
 
-## [Intro](/Introduction.md/)
-
-### About Lab49
-About Lab49
-### [Advisory Consulting](/Advisory and Consulting.md/)
-## [New Joiner Info](/New Joiners.md/)
-### [Getting Started](/New Joiners/Getting Started.md/)
-## [Enterprise Architecture](/Enterprise Architecture.md/)
-### What is Enterprise Architecture
-### Enterprise Architecture Framework
-### What is a Reference Architecture
-### Deep Dive 101
-  - Deep Dive Plan
-  - Deep Dive Checklist
-  - Deep Dive RA Template
 
 
 * [About GitLab](/company/)
@@ -45,7 +45,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hannahwolahan/hannahwolahan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
