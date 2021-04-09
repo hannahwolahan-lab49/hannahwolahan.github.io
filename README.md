@@ -15,9 +15,9 @@
   * [Skills](/Intro/Skills.md/)
 
 ### [Enterprise Architecture](/Enterprise Architecture.md/)
-* [What is Enterprise Architecture](/What is Enterprise Architecture.md/)
-* [Enterprise Architecture Framework](/Enterprise Architecture Framework.md/)
-* [What is a Reference Architecture](/What is a Reference Architecture.md/)
+* [What is Enterprise Architecture](/Enterprise Architecture/What is Enterprise Architecture.md/)
+* [Enterprise Architecture Framework](/Enterprise Architecture/Enterprise Architecture Framework.md/)
+* [What is a Reference Architecture](/Enterprise Architecture/What is a Reference Architecture.md/)
   * Deep Dive 101
   * Deep Dive Plan
   * Deep Dive Checklist
