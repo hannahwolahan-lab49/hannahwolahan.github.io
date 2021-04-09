@@ -1,11 +1,10 @@
-{:toc}
+
 # Lab49 Advisory and Consulting Handbook
+{:toc}
 ## Intro
 ### About Lab49
 ## New Joiner Info
 ### Getting Started
-
-{:toc}
 ### Enterprise Architecture
 ### What is Enterprise Architecture
 ### Enterprise Architecture Framework
@@ -14,7 +13,6 @@
   - Deep Dive Plan
   - Deep Dive Checklist
   - Deep Dive RA Template
-{:toc}
 
 
 
