@@ -5,13 +5,13 @@ Table of Contents
 {:toc}
 
 ### [Intro](/Introduction.md/)
-* [About Lab49](/Introduction/About Lab49.md/)
+* [About Lab49](/Intro/About Lab49.md/)
   * The Practices
   * Lab49 Sydney
-* [Advisory Consulting](/Introduction/Advisory and Consulting.md/)
-  * [Our Principles](/Introduction/Principles.md/)
-  * [Our Team](/Introduction/Our Team.md/)
-  * [Skills](/Introduction/Skills.md/)
+* [Advisory Consulting](/Intro/Advisory and Consulting.md/)
+  * [Our Principles](/Intro/Principles.md/)
+  * [Our Team](/Intro/Our Team.md/)
+  * [Skills](/Intro/Skills.md/)
 
 ### [Enterprise Architecture](/Enterprise Architecture.md/)
 * [What is Enterprise Architecture](/What is Enterprise Architecture.md/)
