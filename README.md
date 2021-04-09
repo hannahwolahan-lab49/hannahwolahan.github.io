@@ -1,6 +1,7 @@
 
+### Table of Contents
+{:.no_toc .hidden-md .hidden-lg}
 
-Table of Contents
 - TOC
 {:toc}
 
