@@ -4,30 +4,31 @@
 {:toc}
 
 ### [Intro](/Introduction.md/)
-* About Lab49
-* The Practices
-* Lab49 Sydney
-* [Advisory Consulting](/Advisory and Consulting.md/)
-* Our Principles
-* Our Team
-* Skills
+* [About Lab49](/Introduction/About Lab49.md/)
+  * The Practices
+  * Lab49 Sydney
+* [Advisory Consulting](/Introduction/Advisory and Consulting.md/)
+  * [Our Principles](/Introduction/Principles.md/)
+  * [Our Team](/Introduction/Our Team.md/)
+  * [Skills](/Introduction/Skills.md/)
 ### [Enterprise Architecture](/Enterprise Architecture.md/)
-* What is Enterprise Architecture
-* Enterprise Architecture Framework
-* What is a Reference Architecture
+* [What is Enterprise Architecture](/What is Enterprise Architecture.md/)
+* [Enterprise Architecture Framework](/Enterprise Architecture Framework.md/)
+* [What is a Reference Architecture](/What is a Reference Architecture.md/)
   * Deep Dive 101
   * Deep Dive Plan
   * Deep Dive Checklist
   * Deep Dive RA Template
-### Practice Development
-### Our Clients
+### [Practice Development](/Practice Development.md/)
+### [Our Clients](/Our Clients.md/)
 ### [New Joiner Info](/New Joiners.md/)
 * [Getting Started](/New Joiners/Getting Started.md/)
 * [Useful Onboarding Resources](/New Joiners/Useful Onboarding Resources.md/)
 * [Contact and Portals](/New Joiners/Contact and Help.md/)
-### [Learning and Development]
-* Learning Resources
-### [Performance Management]
+### [Learning and Development](/Learning and Development.md/)
+* [Learning Resources](/Learning Resources.md/)
+### [Performance Management](/Performance Management.md/)
+### [Contribute to this Handbook!](/Contribute.md/)
 
 
 
