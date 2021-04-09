@@ -1,11 +1,27 @@
 
 # Lab49 Advisory and Consulting Handbook
+- TOC
 {:toc}
-## Intro
+- Lab49
+- About L49
+- the Practices
+- Sydney office
+- Advisory and Consulting
+	- Blurb
+- Our Team
+- Members
+- Skills
+- Our Principles
+
+
+## [Intro](/Introduction.md/)
+
 ### About Lab49
-## New Joiner Info
-### Getting Started
-### Enterprise Architecture
+About Lab49
+### [Advisory Consulting](/Advisory and Consulting.md/)
+## [New Joiner Info](/New Joiners.md/)
+### [Getting Started](/New Joiners/Getting Started.md/)
+## [Enterprise Architecture](/Enterprise Architecture.md/)
 ### What is Enterprise Architecture
 ### Enterprise Architecture Framework
 ### What is a Reference Architecture
@@ -15,6 +31,9 @@
   - Deep Dive RA Template
 
 
+* [About GitLab](/company/)
+  * [History](/company/history/)
+* [Values](/handbook/values/)
 
 **Bold** and _Italic_ and `Code` text
 
