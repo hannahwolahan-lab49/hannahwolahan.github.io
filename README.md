@@ -1,5 +1,6 @@
 
-## Lab49 Advisory and Consulting Handbook
+
+Table of Contents
 - TOC
 {:toc}
 
@@ -11,6 +12,7 @@
   * [Our Principles](/Introduction/Principles.md/)
   * [Our Team](/Introduction/Our Team.md/)
   * [Skills](/Introduction/Skills.md/)
+
 ### [Enterprise Architecture](/Enterprise Architecture.md/)
 * [What is Enterprise Architecture](/What is Enterprise Architecture.md/)
 * [Enterprise Architecture Framework](/Enterprise Architecture Framework.md/)
@@ -19,15 +21,21 @@
   * Deep Dive Plan
   * Deep Dive Checklist
   * Deep Dive RA Template
+
 ### [Practice Development](/Practice Development.md/)
+
 ### [Our Clients](/Our Clients.md/)
+
 ### [New Joiner Info](/New Joiners.md/)
 * [Getting Started](/New Joiners/Getting Started.md/)
 * [Useful Onboarding Resources](/New Joiners/Useful Onboarding Resources.md/)
 * [Contact and Portals](/New Joiners/Contact and Help.md/)
+
 ### [Learning and Development](/Learning and Development.md/)
 * [Learning Resources](/Learning Resources.md/)
+
 ### [Performance Management](/Performance Management.md/)
+
 ### [Contribute to this Handbook!](/Contribute.md/)
 
 
