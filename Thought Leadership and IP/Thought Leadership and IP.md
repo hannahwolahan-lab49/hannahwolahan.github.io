@@ -4,8 +4,9 @@ Here you can view Lab49 intellectual property and insights
 1. Enterprise Architecture Metamodel
 
 # Thought Leadership
-* [Contribute your insights]/
-* Published
+* [Contribute your insights]/(/Thought Leadership/Contribute Thought Leadership/Create Thought Leadership.md/)
+Published Insights
+
 | # | Title | Author(s) | Publish Date |
 |---|-------|-----------|--------------|
 | 1  |[Would a KYC utility work for the Australian and New Zealand Markets?](/Thought Leadership/Published Thought Leadership/2021-02-22 Would a KYC utility work for the Australian and New Zealand Markets.md)       |EMMA WALKER, GARETH SUTTON, LUIS GARCIA           |2021-02-22            |
