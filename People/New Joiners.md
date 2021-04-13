@@ -21,12 +21,12 @@ Welcome to Lab49! Here is some useful information to help you get started. If yo
   * Check with your team mates or manager which Project and Task your time should be charged to
   * The standard working day has 8 hours
   
-- Payslips
+* Payslips
   - Payslips can be accessed from [ADP](https://my.adppayroll.com.au/)
   - Client ID, User ID and Password to be provided by HR
   - ....
 
-- Meetings
+* Meetings
   - Here are some of internal meetings that take place....
   - (Office sync, consulting practice catch up)
 
@@ -35,11 +35,7 @@ Welcome to Lab49! Here is some useful information to help you get started. If yo
 ### Useful Resources
 ### Contacts and Portals
 * Tickets can be raised in the [ION Help Centre](https://jira.iongroup.com/servicedesk/customer/portals) for various types of issues Some useful portals:
-  * [People Operations](https://jira.iongroup.com/servicedesk/customer/portal/15) is responsible for the personal aspects of your life as an ION Group employee.
-
-   You can request assistance from People Operations on payroll, benefits, transfers, immigration, time-off, alternative working; or update People Operations on new information for either yourself or your team; or just get general advice around being an employee or manager.
- * [Technology Operations](https://jira.iongroup.com/servicedesk/customer/portal/10) is responsible for Hardware, Infrastructure, Applications and Platforms.
-
-You can request assistance from TechOps for computer equipment, networks, Google Apps, Office 365, logins, software, printers, networks, servers, databases, also for Tracker, Confluence, Support and Project JIRAs, IIMS, Replicon and Business Objects reporting and some other information systems
+  * [People Operations](https://jira.iongroup.com/servicedesk/customer/portal/15) is responsible for the personal aspects of your life as an ION Group employee. You can request assistance from People Operations on payroll, benefits, transfers, immigration, time-off, alternative working; or update People Operations on new information for either yourself or your team; or just get general advice around being an employee or manager.
+  * [Technology Operations](https://jira.iongroup.com/servicedesk/customer/portal/10) is responsible for Hardware, Infrastructure, Applications and Platforms. You can request assistance from TechOps for computer equipment, networks, Google Apps, Office 365, logins, software, printers, networks, servers, databases, also for Tracker, Confluence, Support and Project JIRAs, IIMS, Replicon and Business Objects reporting and some other information systems
 
 
