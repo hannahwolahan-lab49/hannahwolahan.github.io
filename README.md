@@ -1,16 +1,9 @@
-
-### Table of Contents
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc}
-
-### Intro
+# Intro
 * [About Lab49](/Intro/About Lab49.md/)
   * The Practices
   * Lab49 Sydney
   
-### Consulting Practice
+# Consulting Practice
 * [Our Principles](/Consulting Practice/Principles.md/)
 * [Skills](/Consulting Practice/Domains and Skills.md/)
  
