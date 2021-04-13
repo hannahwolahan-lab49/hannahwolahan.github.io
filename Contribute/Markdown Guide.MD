@@ -5,8 +5,8 @@
 `**This text will be bold**`  
 `__This will also be bold__`
 
-`Hello  (<-- two spaces)  
-World`  
+`Hello  (<-- two spaces)`  
+`World`  
 >Hello  
 >World
 
