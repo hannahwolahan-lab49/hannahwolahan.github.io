@@ -2,7 +2,7 @@
 View Lab49 intellectual property and published insights. Want to contribute thought leadership? Use the link below to follow the steps.
 
 ### Intellectual Property
-1. Enterprise Architecture Metamodel
+* Enterprise Architecture Metamodel
 
 ### Thought Leadership
 
