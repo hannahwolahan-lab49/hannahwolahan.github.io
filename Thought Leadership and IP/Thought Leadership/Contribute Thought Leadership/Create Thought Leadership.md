@@ -11,7 +11,7 @@ The creation cycle for thought leadership contribution will follow
 Go to the folder:
 
 ## Step Two: Add content
-Add content to the file under the following headings. Check out the [Markdown Guide](/Contribute/Markdown Guide/)
+Add content to the file under the following headings. Check out the [Markdown Guide](/Contribute/Markdown Guide.md/)
 
 BY __{author}__
 ON __{date}__
