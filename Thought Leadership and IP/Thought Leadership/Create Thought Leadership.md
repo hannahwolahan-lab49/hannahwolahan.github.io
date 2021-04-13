@@ -1,13 +1,15 @@
 # How to Contribute Thought Leadership
 This page outlines the steps required to contribute a piece of Lab49 Thought Leadership.
 
-The process for thought leadership contribution will follow
+The creation cycle for thought leadership contribution will follow
 1. Draft content
 1. Submit for review (TBC reviewers)
 1. (repeat)
 1. Publish
 
 ## Step One: Create a new file
+Go to the folder:
+
 ## Step Two: Add content
 Add content to the file under the following headings. Check out the [Markdown Guide](/Contribute/Markdown/)
 `Title:
