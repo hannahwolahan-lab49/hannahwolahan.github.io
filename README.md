@@ -22,7 +22,7 @@
 * [Intellectual Property](/Thought Leadership and IP/IP.md)
 
 ### [Our Clients](/Our Clients.md/)
-* CBA (/Our Clients/CBA.md)
+* [CBA](/Our Clients/CBA.md)
 
 ### [People](/People.md/)
 * [Professional Development](/People/Professional Development.md/)
