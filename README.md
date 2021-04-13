@@ -29,5 +29,5 @@
 * [New Joiners](/People/New Joiners.md/)
 * [Team](/People/Team.md/)
 
-### [Contribute to this Handbook!](/Contribute.md/)
+### [Contribute to this Handbook!](/Contribute Guide.md/)
 
