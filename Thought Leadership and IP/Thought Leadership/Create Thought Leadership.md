@@ -12,9 +12,9 @@ Go to the folder:
 
 ## Step Two: Add content
 Add content to the file under the following headings. Check out the [Markdown Guide](/Contribute/Markdown/)
-`Title:
-Author(s) (comma separated):
-Content Body:
+`Title:<br/>
+Author(s) (comma separated):<br/>
+Content Body:<br/>
 Publication status: Draft/In Review/Ready for Submission`
 
 
