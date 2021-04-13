@@ -34,6 +34,12 @@ Welcome to Lab49! Here is some useful information to help you get started. If yo
 
 ### Useful Resources
 ### Contacts and Portals
+* Tickets can be raised in the [ION Help Centre](https://jira.iongroup.com/servicedesk/customer/portals) for various types of issues
+ * [People Operations](https://jira.iongroup.com/servicedesk/customer/portal/15) is responsible for the personal aspects of your life as an ION Group employee.
 
+You can request assistance from People Operations on payroll, benefits, transfers, immigration, time-off, alternative working; or update People Operations on new information for either yourself or your team; or just get general advice around being an employee or manager.
+ * [Technology Operations](https://jira.iongroup.com/servicedesk/customer/portal/10) is responsible for Hardware, Infrastructure, Applications and Platforms.
+
+You can request assistance from TechOps for computer equipment, networks, Google Apps, Office 365, logins, software, printers, networks, servers, databases, also for Tracker, Confluence, Support and Project JIRAs, IIMS, Replicon and Business Objects reporting and some other information systems
 
 
