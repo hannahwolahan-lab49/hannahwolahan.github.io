@@ -12,6 +12,13 @@ Go to the folder:
 
 ## Step Two: Add content
 Add content to the file under the following headings. Check out the [Markdown Guide](/Contribute/Markdown Guide/)
+
+BY __{author}__
+ON __{date}__
+# Title
+{Content}
+
+{content}
 * Title:
 * Author(s) (comma separated):
 * Content Body:<br/>
