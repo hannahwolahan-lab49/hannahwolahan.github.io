@@ -1,12 +1,7 @@
-
-BY __{author}__
-ON __{date}__
-# Title
-
-{content}
 # Would a KYC utility work for the Australian and New Zealand Markets?
 
-![KYC](Thought Leadership and IP/Thought Leadership/TL Images/2020-04-13_TL_AUSKYC_001.jpeg)
+![KYC](/Published TL Images/2020-04-13_TL_AUSKYC_001.jpeg)
+
 
 As momentum for unified KYC utilities, like the nascent Invidem, takes hold around the globe, Lab49 explores the possible benefits and challenges of adopting such a model in the Trans-Tasman market.
 
