@@ -6,10 +6,10 @@ _This will also be italic_
 __This will also be bold__`
 
 `Hello  (<-- two spaces)
-World`
+World`  
 Hello  
 World
 
 `Hello
-World`
+World`  
  > Hello World
