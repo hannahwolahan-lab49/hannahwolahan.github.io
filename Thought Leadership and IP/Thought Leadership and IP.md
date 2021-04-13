@@ -1,11 +1,12 @@
-View Lab49 intellectual property and insights
+# Thought Leadership and IP
+View Lab49 intellectual property and published insights. Want to contribute thought leadership? Use the link below to follow the steps.
 
-# Intellectual Property
+### Intellectual Property
 1. Enterprise Architecture Metamodel
 
-# Thought Leadership
+### Thought Leadership
 
-Published Insights
+###### Published Insights
 
 | # | Title | Author(s) | Publish Date |
 |---|-------|-----------|--------------|
@@ -14,3 +15,5 @@ Published Insights
 | 3  |       |           |              |
 
 * [Contribute your insights](/Thought Leadership and IP/Thought Leadership/Contribute Thought Leadership/Create Thought Leadership.md/)
+
+
