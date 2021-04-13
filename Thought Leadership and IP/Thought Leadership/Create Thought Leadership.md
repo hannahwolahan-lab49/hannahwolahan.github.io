@@ -12,10 +12,10 @@ Go to the folder:
 
 ## Step Two: Add content
 Add content to the file under the following headings. Check out the [Markdown Guide](/Contribute/Markdown/)
-`Title:<br/>
-Author(s) (comma separated):<br/>
+Title:
+Author(s) (comma separated):
 Content Body:<br/>
-Publication status: Draft/In Review/Ready for Submission`
+Publication status: Draft/In Review/Ready for Submission:
 
 
 ## Step Three: Add images
