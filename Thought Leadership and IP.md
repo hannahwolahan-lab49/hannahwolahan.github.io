@@ -13,4 +13,4 @@ Published Insights
 | 2  |       |           |              |
 | 3  |       |           |              |
 
-* [Contribute your insights](/Thought Leadership/Contribute Thought Leadership/Create Thought Leadership.md/)
+* [Contribute your insights](/Thought Leadership and IP/Thought Leadership/Contribute Thought Leadership/Create Thought Leadership.md/)
