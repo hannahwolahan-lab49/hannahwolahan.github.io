@@ -18,8 +18,8 @@
 * [Enterprise Architecture](/Methodologies/Enterprise Architecture.md/)
 
 ### [Thought Leadership and Intellectual Property](/Thought Leadership and IP.md)
-* [Thought Leadership](/Thought Leadership and MD/Thought Leadership.md)
-* [Intellectual Property](/Thought Leadership and MD/IP.md)
+* [Thought Leadership](/Thought Leadership and IP/Thought Leadership.md)
+* [Intellectual Property](/Thought Leadership and IP/IP.md)
 
 ### [Our Clients](/Our Clients.md/)
 * CBA (/Our Clients/CBA.md)
