@@ -10,7 +10,7 @@
 ### Methodologies
 * [Enterprise Architecture](/Methodologies/Enterprise Architecture.md/)
 
-### [Thought Leadership and Intellectual Property](/Thought Leadership and IP.md)
+### [Thought Leadership and Intellectual Property](/Thought Leadership and IP/Thought Leadership and IP.md/)
 * [Thought Leadership](/Thought Leadership and IP/Thought Leadership.md)
 * [Intellectual Property](/Thought Leadership and IP/IP.md)
 
