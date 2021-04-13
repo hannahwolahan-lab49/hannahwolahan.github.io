@@ -1,6 +1,6 @@
 BY __EMMA WALKER, GARETH SUTTON, LUIS GARCIA__
-
 ON __22 FEBRUARY 2021__
+
 # Would a KYC utility work for the Australian and New Zealand Markets?
 
 ![KYC](/Published TL Images/2020-04-13_TL_AUSKYC_001.jpeg)
