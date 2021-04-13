@@ -27,7 +27,7 @@
 ### [People](/People.md/)
 * [Professional Development](/People/Professional Development.md/)
 * [New Joiners](/People/New Joiners.md/)
-* [Team](/People/Team.md/
+* [Team](/People/Team.md/)
 
 ### [Contribute to this Handbook!](/Contribute.md/)
 
