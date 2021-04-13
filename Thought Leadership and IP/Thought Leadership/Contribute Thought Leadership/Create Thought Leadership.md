@@ -9,14 +9,15 @@ The creation cycle for thought leadership contribution will follow
 
 ## Step One: Create a new file
 Go to the folder:
+Using the text from Insight_Template.md
 
 ## Step Two: Add content
-Add content to the file under the following headings. Check out the [Markdown Guide](/hannahwolahan.github.io/Contribute/Contribute Guide.md/)
+Add content to the file under the following headings. Check out the [Markdown Guide](/hannahwolahan.github.io/Contribute/Contribute Guide.md/) for help with formatting.
 
 
 BY __{author}__
 ON __{date}__
-# Title
+Title
 {Content}
 
 {content}
@@ -30,4 +31,4 @@ ON __{date}__
 1. Where you want to want to embed an image in the Thought Leadership piece, use the following syntax`![Alt Text](image url)` where the image URL is `/Thought Leadership/TL Images/YY_MM_DD_TL_[Keyword]_001`
 
 ## Step Four: Submit for review
-?
+Once you're happy with the content, scroll to the `Commit changes` box and add text 'Thought leadership ready for review' in the change description and click `Commit changes`
