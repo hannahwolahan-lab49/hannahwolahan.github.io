@@ -23,4 +23,3 @@
 * [Team](/People/Team.md/)
 
 ### [Contribute to this Handbook!](/Contribute/Contribute Guide.md/)
-<a href="/Contribute/Contribute Guide.md#markdown-guide" >contrib</a>
