@@ -1,30 +1,20 @@
 # How to Contribute Thought Leadership
 This page outlines the steps required to contribute a piece of Lab49 Thought Leadership.
-
-The creation cycle for thought leadership contribution will follow
-1. Draft content
-1. Submit for review (TBC reviewers)
-1. (repeat)
-1. Publish
+ (TODO)
 
 ## Step One: Create a new file
 Go to the folder:
 Using the text from Insight_Template.md
 
 ## Step Two: Add content
-Add content to the file under the following headings. Check out the [Markdown Guide](/hannahwolahan.github.io/Contribute/Contribute Guide.md/) for help with formatting.
-
-
+Add content to the file under the following headings. Check out the [Markdown Guide](/hannahwolahan.github.io/Contribute/Markdown Guide.md/) for help with formatting.
+`
 BY __{author}__
 ON __{date}__
 Title
-{Content}
+{Content body}
+Publication status _(Draft/In Review/Ready for Submission)_:`
 
-{content}
-* Title:
-* Author(s) (comma separated):
-* Content Body:<br/>
-* Publication status _(Draft/In Review/Ready for Submission)_:
 
 ## Step Three: Add images
 1. Upload images to [this folder](/Thought Leadership/TL Images/) with naming convention `YY_MM_DD_TL_[Keyword]_001` where keyword is a relevant word associated with the Thought Leadership piece
