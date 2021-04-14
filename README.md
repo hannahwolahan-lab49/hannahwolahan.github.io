@@ -13,7 +13,7 @@
 ### [Thought Leadership and Intellectual Property](/Thought Leadership and IP/Thought Leadership and IP.md/)
 
 ### Our Clients
-* [CBA](/Our Clients/CBA.md)
+* [do not add until on l49 gh]
 
 ### People
 * [Professional Development](/People/Professional Development.md/)
