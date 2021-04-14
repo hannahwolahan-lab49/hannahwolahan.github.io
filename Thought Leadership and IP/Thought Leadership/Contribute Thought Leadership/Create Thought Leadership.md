@@ -10,8 +10,8 @@ This page outlines the steps required to contribute a piece of Lab49 thought lea
 
 
 ### Step Two: Add content
-Populate the file and content in the following sections. Check out the [Markdown Guide](hannahwolahan.github.io/Contribute/Markdown Guide.md/) for help with formatting.  
->BY __{author}__ //All caps
+Populate the file and content in the following sections. Check out the [Markdown Guide](https://hannahwolahan.github.io/Contribute/Markdown Guide.md/) for help with formatting.  
+>BY __{author}__ // All caps
 >ON __{date}__ // Format: DD MONTH YYYY
 >Title
 >Publication status _(Draft/In Review/Ready for Submission)_:
