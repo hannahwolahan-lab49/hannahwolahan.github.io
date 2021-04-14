@@ -2,4 +2,4 @@
 
 TODO
 
-##<a id="markdown-guide"> Markdown Guide</a>
+<h2><a id="markdown-guide"> Markdown Guide</a></h2>
