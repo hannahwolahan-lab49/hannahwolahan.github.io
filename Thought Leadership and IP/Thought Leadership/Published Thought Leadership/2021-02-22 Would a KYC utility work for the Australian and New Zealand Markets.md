@@ -79,6 +79,8 @@ Several key components are required:
 This is where the utility’s AML credentials are earnt: Can the FI determine a customer’s financial crime risk profile from the data the utility is selling? Does the data enable the FI to plausibly explain a customer’s activity in light of what has been captured about that customer? And is the financial crime risk of doing business with that customer within the FIs risk appetite?
 1. __Detection engine:__ A system to consume publicly available information and compare against existing customer data to determine when a customer has changed behaviour or activity; and whether these changes materially alter their financial crime risk.
 1. __Distribution platform:__ Secure distribution to the FI at the point of CDD being completed, periodically, and whenever a change has been detected irrespective of whether this has resulted in material change in risk.
+
+
 > Gaining customer consent to share data, while ensuring the utility meets both Australian and New Zealand consumer data standards and the secure encryption of data between parties are critical for the success of this model.
 
 There are also a number of other considerations. Gaining customer consent to share data, while ensuring the utility meets both Australian and New Zealand consumer data standards and the secure encryption of data between parties are critical for the success of this model.
